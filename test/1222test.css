@@ -1,0 +1,56 @@
+.whole{
+    width: 520px;
+    border: 1px solid black;
+    padding: 20px 40px;
+    margin: 0 auto;
+}
+
+ .radio_part{
+    padding-left: 2rem;
+}
+
+.container{
+    margin: 0 auto;
+   
+}
+.header{
+    background-color: blue;
+    padding: 1rem 0;
+}
+
+h2{
+    color: white;
+    display: flex;
+    margin: 0;
+    justify-content: center;
+
+}
+
+.menubar{
+    background-color: rgb(120, 153, 202);
+    color: white;
+    padding: 10px;
+}
+
+span{
+    padding-right: 10px;
+}
+
+.main{
+    background-color: gainsboro;
+}
+
+.title{
+    text-align: center;
+    margin: 0px;
+    padding: 20px 0;
+}
+
+.footer{
+    background-color: blue;
+    text-align: center;
+    font-size: 10px;
+    padding-top: 5px;
+    color: white;
+
+}
